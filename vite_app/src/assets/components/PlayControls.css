@@ -1,0 +1,58 @@
+body{
+    background-color: black;
+}
+
+
+input{
+    background-color: black;
+    border: 1px solid grey;
+    height: 25px;
+}
+
+
+.search1{
+    margin-left: 855px;
+    margin-top: -127px;
+    height: 28px;
+    width: 52px;
+}
+
+
+.search{
+    margin-bottom: 100px;
+    margin-left: 440px;
+    margin-top: -688px;
+    width: 30%;
+}
+
+
+.container3{
+    margin-top: -725px;
+}
+
+.create{
+    margin-left: 1180px;
+    margin-top: -26px;
+}
+.bell{
+    margin-left: 1282px;
+    margin-top: -33px;
+}
+.more{
+    margin-left: 1231px;
+    margin-top: -28px;
+}
+.profile{
+    margin-left: 1338px;
+    margin-top: -29px;
+}
+#new11{
+    position: absolute;
+    top: 15px;
+}
+
+
+.mic{
+    margin-left: 891px;
+    margin-top: -27px;
+}
